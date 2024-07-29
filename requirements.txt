@@ -1,0 +1,10 @@
+packageurl-python
+pip_requirements_parser
+scancode-toolkit
+PyYAML
+requests
+Jinja2
+toml
+pandas
+cyclonedx-python-lib
+spdx-tools
